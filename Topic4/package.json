@@ -1,0 +1,14 @@
+{
+  "name": "topic4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angad",
+  "license": "ISC",
+  "dependencies": {
+    "highcharts": "^10.3.3"
+  }
+}
