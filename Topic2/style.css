@@ -1,0 +1,38 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #6c757d;
+}
+
+form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+label[for="colorPicker"] {
+    margin-left: 10px;
+}
+
+#Div1,
+#Div2,
+#Div3 {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: center;
+}
