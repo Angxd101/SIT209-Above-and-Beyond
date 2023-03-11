@@ -1,0 +1,23 @@
+body {
+    background-image: url("user2.jpg");
+    background-color: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(219, 219, 219);
+}
+
+button {
+    background-color:black;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+    background-color: gray;
+}
